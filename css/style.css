@@ -130,7 +130,7 @@ font-family: 'Roboto', sans-serif;
 
 body {
 	font-size:14px;
-	color:#ffffff;
+	color:#9f9f9f;
 	line-height:1.7em;
 	font-weight:400;
 	background:#ffffff;
@@ -465,7 +465,7 @@ img{
 	color:#f1ecff;
 	font-weight:500;
 	padding: 10px 32px;
-	background-color: #ff8a01;
+	background-color: #8f000b;
 	transition: all 300ms linear;
 	border-radius: 5px;
 	overflow: hidden;
@@ -476,7 +476,7 @@ img{
 }
 
 .btn-style-six:hover{
-	color:#ff8a01;
+	color:#8f000b;
 	-webkit-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-ms-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	box-shadow: 0 10px 30px rgba(0,0,0,0.10);
@@ -521,14 +521,14 @@ img{
 	position:relative;
 	font-size:16px;
 	line-height:28px;
-	color:#ff8a01;
+	color: #8f000b;
 	font-weight:500;
 	padding: 10px 32px;
 	background-color: transparent;
 	transition: all 300ms linear;
 	border-radius: 5px;
 	overflow: hidden;
-	border: 1px solid #ff8a01;
+	border: 1px solid #8f000b;
 }
 
 .btn-style-seven .btn-title{
@@ -549,7 +549,7 @@ img{
 	height: 100%;
 	width: 100%;
 	content: "";
-	background-color: #ff8a01;
+	background-color: #8f000b;
 	-webkit-transform: scale(0, 1);
 	-ms-transform: scale(0, 1);
 	transform: scale(0, 1);
@@ -1064,7 +1064,7 @@ img{
 
 .sec-title.light h2,
 .sec-title.light .title{
-	color: #ffffff;
+	color: #9f9f9f;
 }
 
 .sec-title.light h2:before{
@@ -3142,10 +3142,10 @@ img{
 
 .about-section .image-column .image-1:before{
 	position: absolute;
-	height: 500px;
-	width: 270px;
-	right: -30px;
-	top: 80px;
+	/*height: 500px;*/
+	/*width: 270px;*/
+	/*right: -30px;*/
+	/*top: 80px;*/
 	background: rgb(56,46,47);
 	background: -moz-linear-gradient(45deg, rgba(56,46,47,1) 0%, rgba(38,24,25,1) 100%);
 	background: -webkit-linear-gradient(45deg, rgba(56,46,47,1) 0%,rgba(38,24,25,1) 100%);
@@ -5619,7 +5619,7 @@ img{
 .schedule-section-three{
 	position: relative;
 	padding: 120px 0 70px;
-	background-color: #060822;
+	background-color: #ffffff;
 }
 
 .schedule-section-three.no-pd-top{
@@ -5634,7 +5634,7 @@ img{
 .schedule-block-two .inner-box{
 	position: relative;
 	min-height: 150px;
-	background-color: #10122f;
+	background-color: rgba(38,24,25,1);
 	border: 2px solid transparent;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
@@ -6916,11 +6916,11 @@ img{
 .news-section.dark{
 	position: relative;
 	padding: 120px 0 0;
-	background-color: #9f9998;
+	background-color: #f4f4f4;
 }
 
 .news-section.dark .news-block .lower-content{
-	background-color: #9f9998;
+	background-color: #f4f4f4;
 }
 
 .news-section.dark .news-block h3 a{
