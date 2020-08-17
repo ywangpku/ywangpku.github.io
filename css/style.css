@@ -1019,7 +1019,7 @@ img{
 	line-height: 1em;
 	color: #ff8a01;
 	font-weight: 500;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	letter-spacing: 5px;
 	margin-bottom: 15px;
 }
